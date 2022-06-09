@@ -1,0 +1,30 @@
+body {
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    margin-left: 9%;
+    padding: 1%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0.1rem;
+    border-color: black;
+    border-style:outset;
+    align-items: center;
+    justify-self: center;
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: inline;
+    margin-left: 50%;
+    margin-right: 50%;
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
